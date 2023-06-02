@@ -4,3 +4,9 @@ body{
     background-color: black;
     color: white;
 }
+
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: antiquewhite;
+}
